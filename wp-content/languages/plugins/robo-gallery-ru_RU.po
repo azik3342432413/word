@@ -1,0 +1,1790 @@
+# Translation of Plugins - Photo Gallery, Images, Slider in Rbs Image Gallery - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Photo Gallery, Images, Slider in Rbs Image Gallery - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-04-27 06:15:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Photo Gallery, Images, Slider in Rbs Image Gallery - Stable (latest release)\n"
+
+#: includes/rbs_gallery_settings.php:228
+msgid "Right click"
+msgstr "Правый щелчок"
+
+#: includes/rbs_gallery_settings.php:211
+msgid "Select the watermark alignment."
+msgstr "Выберите выравнивание водяного знака."
+
+#: includes/rbs_gallery_settings.php:189
+msgid "Watermark alignment"
+msgstr "Выравнивание водяного знака"
+
+#: includes/rbs_gallery_settings.php:180
+msgid "Watermark Text"
+msgstr "Текст водного знака"
+
+#: includes/rbs_gallery_settings.php:160
+msgid "Watermark"
+msgstr "Водяной знак"
+
+#: includes/rbs_gallery_settings.php:90
+msgid "Content Protection"
+msgstr "Защита содержимого"
+
+#: includes/rbs_gallery_settings.php:89
+msgid "Youtube API"
+msgstr "YouTube API"
+
+#: includes/options/rbs_gallery_options_size_base.php:85
+msgid "Add All Pro Features + Grid Columns Manager + Mobile Friendly Tools"
+msgstr "Добавить все возможности Pro + менеджер колонок сетки + инструменты для мобильных устройств"
+
+#: includes/options/rbs_gallery_options_lightbox_base.php:187
+#: includes/options/rbs_gallery_options_polaroid_base.php:20
+msgid "Add All Pro Features + Polaroid Mode + Content Source"
+msgstr "Добавить все возможности Pro + режим Polaroid + источник содержимого"
+
+#: includes/options/rbs_gallery_options_hover_base.php:146
+msgid "Add All Pro Features +  More Styles + Long Description"
+msgstr "Добавить все возможности Pro + дополнительные стили + большое описание"
+
+#: includes/options/rbs_gallery_options_button_base.php:21
+msgid "Add All Pro Features + Advanced Menu + Tags Mode + Gallery Search"
+msgstr "Добавить все возможности Pro + расширенное меню + режим меток + поиск по галерее"
+
+#: app/extensions/fields/template/field/text/images.tpl.php:102
+msgid "Add All Pro Features + Gallery Images Links"
+msgstr "Добавить все возможности Pro + ссылки на изображения в галерее"
+
+#: app/extensions/fields/config/metabox/gallery_slider_lazyload.php:35
+msgid "Preload"
+msgstr "Предварительная загрузка"
+
+#: app/extensions/fields/config/metabox/gallery_slider_lazyload.php:19
+msgid "Lazy Load Settings "
+msgstr "Настройки отложенной загрузки "
+
+#: app/extensions/fields/config/metabox/gallery_slider_interface.php:56
+msgid "Scrollbar"
+msgstr "Полоса прокрутки"
+
+#: app/extensions/fields/config/metabox/gallery_slider_interface.php:36
+msgid "Navigation buttons"
+msgstr "Кнопки навигации"
+
+#: app/extensions/fields/config/metabox/gallery_slider_interface.php:20
+msgid "Interface Options"
+msgstr "Параметры интерфейса"
+
+#: app/extensions/fields/config/metabox/gallery_slider_content.php:79
+msgid "Content panel theme"
+msgstr "Тема панели Содержимое"
+
+#: app/extensions/fields/config/metabox/gallery_slider_content.php:55
+msgid "Content panel source"
+msgstr "Источник панели Содержимое"
+
+#: app/extensions/fields/config/metabox/gallery_slider_content.php:35
+msgid "Content panel"
+msgstr "Панель Содержимое"
+
+#: app/extensions/fields/config/metabox/gallery_slider_content.php:19
+msgid "Content Panel Settings "
+msgstr "Настройки панели Содержимое "
+
+#: app/extensions/fields/config/metabox/gallery_slider_general.php:172
+msgid "here you can customize thumbnails quality, depend of this value you will have different thumbnails resolution. Please check values for the thumbnails resolutions"
+msgstr "здесь вы можете настроить качество миниатюр, в зависимости от этого значения у вас будет разное разрешение миниатюр. Пожалуйста, проверьте значения разрешений миниатюр"
+
+#: app/extensions/fields/config/metabox/gallery_slider_general.php:168
+msgid "Slider Images Quality"
+msgstr "Качество изображений слайдера"
+
+#: app/extensions/fields/config/metabox/gallery_slider_general.php:155
+msgid "Random"
+msgstr "Случайно"
+
+#: app/extensions/fields/config/metabox/gallery_slider_general.php:153
+msgid "Date &uarr;"
+msgstr "Дата &uarr;"
+
+#: app/extensions/fields/config/metabox/gallery_slider_general.php:152
+msgid "Date &darr;"
+msgstr "Дата &darr;"
+
+#: app/extensions/fields/config/metabox/gallery_slider_general.php:150
+msgid "Title &uarr;"
+msgstr "Заголовок &uarr;"
+
+#: app/extensions/fields/config/metabox/gallery_slider_general.php:149
+msgid "Title &darr;"
+msgstr "Заголовок &darr;"
+
+#: app/extensions/fields/config/metabox/gallery_slider_general.php:147
+msgid "Category &uarr;"
+msgstr "Рубрика &uarr;"
+
+#: app/extensions/fields/config/metabox/gallery_slider_general.php:146
+msgid "Category &darr;"
+msgstr "Рубрика &darr;"
+
+#: app/extensions/fields/config/metabox/gallery_slider_general.php:107
+msgid "in our gallery we use smart algorithm for the size calculation. In Max Width option you define maximum allowed size of the gallery box"
+msgstr "в нашей галерее мы используем умный алгоритм расчета размеров. В опции Max Width(Макс. ширина) вы определяете максимально допустимый размер окна галереи"
+
+#: app/extensions/fields/config/metabox/gallery_slider_general.php:106
+msgid "Slider Height"
+msgstr "Высота слайдера"
+
+#: app/extensions/fields/config/metabox/gallery_slider_general.php:84
+msgid "Slider Auto Height"
+msgstr "Автоматическая высота слайдера"
+
+#: app/extensions/fields/config/metabox/gallery_slider_general.php:55
+msgid "Slider Width "
+msgstr "Ширина слайдера "
+
+#: app/extensions/fields/config/metabox/gallery_slider_general.php:33
+msgid "Slider Auto Width"
+msgstr "Автоматическая ширина слайдера"
+
+#: app/extensions/fields/config/metabox/gallery_slider_general.php:18
+msgid "General Slider Options"
+msgstr "Основные параметры слайдера"
+
+#: app/extensions/fields/config/metabox/gallery_slider_animation.php:71
+msgid "Direction"
+msgstr "Направление"
+
+#: app/extensions/fields/config/metabox/gallery_slider_animation.php:55
+msgid "Delay"
+msgstr "Задержка"
+
+#: app/extensions/fields/config/metabox/gallery_slider_animation.php:33
+msgid "Slider autoplay"
+msgstr "Автозапуск слайдера"
+
+#: app/extensions/fields/config/metabox/gallery_slider_animation.php:18
+msgid "Animation Options"
+msgstr "Параметры анимации"
+
+#: app/extensions/fields/template/content/gallery_type/type_slider.tpl.php:3
+msgid "Slider"
+msgstr "Слайдер"
+
+#: app/extensions/dashboard/class.dashboard.php:159
+msgid "If you have some questions or any kind of problems with gallery installation or configuration feel free to <a href=\"%s\" target=\"_blank\">post ticket here</a>"
+msgstr "Если у вас есть вопросы или какие-либо проблемы с установкой или настройкой галереи, не стесняйтесь <a href=\"%s\" target=\"_blank\">разместить заявку здесь</a>"
+
+#: app/extensions/fields/template/content/gallery_type/type_custom.tpl.php:5
+#: app/extensions/fields/template/content/gallery_type/type_grid.tpl.php:5
+#: app/extensions/fields/template/content/gallery_type/type_gridpro.tpl.php:5
+#: app/extensions/fields/template/content/gallery_type/type_masonry.tpl.php:5
+#: app/extensions/fields/template/content/gallery_type/type_masonrypro.tpl.php:5
+#: app/extensions/fields/template/content/gallery_type/type_mosaic.tpl.php:5
+#: app/extensions/fields/template/content/gallery_type/type_mosaicpro.tpl.php:8
+#: app/extensions/fields/template/content/gallery_type/type_polaroid.tpl.php:5
+#: app/extensions/fields/template/content/gallery_type/type_polaroidpro.tpl.php:5
+#: app/extensions/fields/template/content/gallery_type/type_slider.tpl.php:5
+#: app/extensions/fields/template/content/gallery_type/type_wallstylepro.tpl.php:5
+#: app/extensions/fields/template/content/gallery_type/type_youtube.tpl.php:5
+#: app/extensions/fields/template/content/gallery_type/type_youtubepro.tpl.php:5
+#: app/extensions/galleryType/init.php:170
+msgid "Type"
+msgstr "Тип"
+
+#: app/extensions/galleryType/init.php:160
+msgid "Robo Gallery draft updated."
+msgstr "Обновлен черновик Robo Gallery."
+
+#: app/extensions/galleryType/init.php:156
+msgid "M j, Y @ G:i"
+msgstr "d.m.Y H:i"
+
+#: app/extensions/galleryType/init.php:155
+msgid "Robo Gallery scheduled for: <strong>%1$s</strong>."
+msgstr "Robo Gallery запланирована на: <strong>%1$s</strong>."
+
+#: app/extensions/galleryType/init.php:153
+msgid "Robo Gallery submitted."
+msgstr "Представлена Robo Gallery."
+
+#: app/extensions/galleryType/init.php:152
+msgid "Robo Gallery saved."
+msgstr "Сохранена Robo Gallery."
+
+#: app/extensions/galleryType/init.php:151
+msgid "Robo Gallery published."
+msgstr "Опубликована Robo Gallery."
+
+#. translators: %s: date and time of the revision
+#: app/extensions/galleryType/init.php:149
+msgid "Robo Gallery restored to revision from %s"
+msgstr "Robo Gallery восстановлена до редакции от %s"
+
+#: app/extensions/galleryType/init.php:145
+msgid "Custom field deleted."
+msgstr "Произвольное поле удалено."
+
+#: app/extensions/galleryType/init.php:144
+msgid "Custom field updated."
+msgstr "Произвольное поле обновлено."
+
+#: app/extensions/galleryType/init.php:143
+#: app/extensions/galleryType/init.php:146
+msgid "Robo Gallery updated."
+msgstr "Обновлена Robo Gallery."
+
+#: app/extensions/duplicate/class.duplicate.php:193
+msgid "Untitled"
+msgstr "Без заголовка"
+
+#: app/extensions/duplicate/class.duplicate.php:184
+msgid "Copy features for this gallery are not enabled"
+msgstr "Функции копирования для этой галереи не включены"
+
+#: app/extensions/duplicate/class.duplicate.php:135
+msgid "Copy creation failed, could not find original:"
+msgstr "При копировании произошла ошибка, не удалось найти оригинал:"
+
+#: app/extensions/duplicate/class.duplicate.php:104
+msgid "No gallery to copy has been supplied!"
+msgstr "Галерея для копирования не предоставлена!"
+
+#: app/extensions/duplicate/class.duplicate.php:41
+msgid "New Draft"
+msgstr "Новый черновик"
+
+#: app/extensions/duplicate/class.duplicate.php:41
+msgid "Copy to a new draft"
+msgstr "Копировать в новый черновик"
+
+#: app/extensions/duplicate/class.duplicate.php:39
+msgid "Clone"
+msgstr "Клонировать"
+
+#: app/extensions/duplicate/class.duplicate.php:39
+msgid "Clone this item"
+msgstr "Клонировать этот элемент"
+
+#: app/extensions/dashboard/overview.php:47
+msgid "If you have some new features request or some functionality update for our gallery plugin please <a href=\"%s\"  target=\"_blank\">post some message</a> with description."
+msgstr "Если у вас есть запрос на новые функции или обновление функций для нашего плагина галереи, <a href=\"%s\" target=\"_blank\"> отправьте сообщение </a> с описанием."
+
+#: app/extensions/fields/template/element/label.tooltip.tpl.php:9
+msgid "Click for information"
+msgstr "Нажмите для информации"
+
+#: app/extensions/fields/template/content/gallery_type/type_grid.tpl.php:3
+msgid "Gallery Grid"
+msgstr "Галерея сеткой"
+
+#: app/extensions/fields/template/content/gallery_type/type_mosaic.tpl.php:3
+msgid "Gallery Mosaic"
+msgstr "Галерея мозаикой"
+
+#: app/extensions/fields/template/content/gallery_type/type_gridpro.tpl.php:3
+msgid "Gallery Grid Pro"
+msgstr "Галерея сеткой Pro"
+
+#: app/extensions/fields/template/content/gallery_type/type_wallstylepro.tpl.php:3
+msgid "Gallery WallStyle Pro"
+msgstr "Галерея WallStyle Pro"
+
+#: app/extensions/fields/template/content/gallery_type/type_youtubepro.tpl.php:3
+msgid "Gallery Youtube Pro"
+msgstr "Галерея YouTube Pro"
+
+#: app/extensions/fields/template/content/gallery_type/type_masonrypro.tpl.php:3
+msgid "Gallery Masonry Pro"
+msgstr "Галерея кладкой Pro"
+
+#: app/extensions/fields/template/content/gallery_type/type_polaroidpro.tpl.php:3
+msgid "Gallery Polaroid Pro"
+msgstr "Галерея Polaroid Pro"
+
+#: app/extensions/fields/template/content/gallery_type/type_youtube.tpl.php:3
+msgid "Gallery Youtube"
+msgstr "Галерея YouTube"
+
+#: app/extensions/fields/template/content/gallery_type/type_mosaicpro.tpl.php:6
+msgid "Gallery Mosaic Pro"
+msgstr "Галерея мозаикой Pro"
+
+#: app/extensions/fields/template/content/gallery_type/type_polaroid.tpl.php:3
+msgid "Gallery Polaroid"
+msgstr "Галерея Polaroid"
+
+#: app/extensions/fields/template/content/gallery_type/type_masonry.tpl.php:3
+msgid "Gallery Masonry"
+msgstr "Галерея кладкой"
+
+#: app/extensions/fields/template/metabox/default.tpl.php:32
+msgid "New Feature"
+msgstr "Новая функция"
+
+#: app/extensions/fields/template/metabox/default.tpl.php:26
+msgid "Premium function"
+msgstr "Премиум-функция"
+
+#: app/extensions/fields/template/field/text/images.tpl.php:84
+msgid "Open images manager and configure <strong>Link</strong>, <strong>Tags</strong> and <strong>Video</strong> (YouTube, Vimeo) for every gallery image."
+msgstr "Откройте Управление изображениями и настройте <strong>Ссылка</strong>, <strong>Метки</strong> и <strong>Видео</strong> (YouTube, Vimeo) для каждого изображения галереи."
+
+#: app/extensions/fields/config/metabox/image.php:18
+msgid "Images"
+msgstr "Изображения"
+
+#: app/extensions/fields/config/metabox/update_notice.php:37
+msgid "Update license key"
+msgstr "Обновить лицензионный ключ"
+
+#: app/extensions/fields/config/metabox/update_notice.php:36
+msgid "With latest version of the license key you get access to the full list of the latest functionality of the plugin."
+msgstr "С последней версией лицензионного ключа вы получаете доступ к полному списку новейших функций плагина."
+
+#: app/extensions/fields/config/metabox/update_notice.php:35
+msgid "Please update license key to the latest version."
+msgstr "Обновите лицензионный ключ до последней версии."
+
+#: app/extensions/fields/config/metabox/update_notice.php:20
+msgid "Update license key file"
+msgstr "Обновить файл лицензионного ключа"
+
+#: app/extensions/fields/config/metabox/gallery_type.php:21
+msgid "Current Gallery Type"
+msgstr "Текущий тип галереи"
+
+#: app/extensions/fields/config/metabox/gallery_youtube.php:85
+msgid "Youtube Content IDs"
+msgstr "ID содержимого YouTube"
+
+#: app/extensions/fields/config/metabox/gallery_youtube.php:73
+msgid "Playlist "
+msgstr "Список воспроизведения "
+
+#: app/extensions/fields/config/metabox/gallery_youtube.php:65
+msgid "- mode import all youtube videos with IDs from the field below."
+msgstr "- режим импорта всех видеороликов youtube с ID из поля ниже."
+
+#: app/extensions/fields/config/metabox/gallery_youtube.php:64
+#: app/extensions/fields/config/metabox/gallery_youtube.php:74
+msgid "Videos by ID"
+msgstr "Видеоролики по ID"
+
+#: app/extensions/fields/config/metabox/gallery_youtube.php:63
+msgid " - mode import videos  from youtube playlists. You just need to specify id(s) of the required youtube playlists in the field below."
+msgstr " - режим импорта видео из плейлистов youtube. Вам просто нужно указать id необходимых плейлистов YouTube в поле ниже."
+
+#: app/extensions/fields/config/metabox/gallery_youtube.php:62
+msgid "Playlist"
+msgstr "Список воспроизведения"
+
+#: app/extensions/fields/config/metabox/gallery_youtube.php:61
+msgid "- mode import videos from youtube channels. You just need to specify id(s) of the required youtube channels in the field below."
+msgstr "- режим импорта видео с каналов youtube. Вам просто нужно указать id(ы) нужных каналов youtube в поле ниже."
+
+#: app/extensions/fields/config/metabox/gallery_youtube.php:60
+#: app/extensions/fields/config/metabox/gallery_youtube.php:71
+msgid "Channel"
+msgstr "Канал"
+
+#: app/extensions/fields/config/metabox/gallery_youtube.php:59
+msgid "Here you can setup youtube gallery in two simple steps. Select value for youtube content mode and after that youtube content ids for the videos, youtube playlist or youtube channel"
+msgstr "Здесь вы можете настроить галерею YouTube за два простых шага. Выберите значение для режима содержимого YouTube и после этого идентификаторы содержимого YouTube для видео, плейлиста YouTube или канала YouTube"
+
+#: app/extensions/fields/config/metabox/gallery_youtube.php:50
+msgid "Add Youtube Channel & Playlist add-on"
+msgstr "Добавить канал Youtube и дополнение для плейлиста"
+
+#: app/extensions/fields/config/metabox/gallery_youtube.php:32
+#: app/extensions/fields/config/metabox/gallery_youtube.php:92
+msgid "and set youtube API key"
+msgstr "и установите ключ API YouTube"
+
+#: app/extensions/fields/config/metabox/gallery_youtube.php:31
+#: app/extensions/fields/config/metabox/gallery_youtube.php:91
+msgid "this link"
+msgstr "эта ссылка"
+
+#: app/extensions/fields/config/metabox/gallery_youtube.php:29
+#: app/extensions/fields/config/metabox/gallery_youtube.php:89
+msgid "Please follow"
+msgstr "Подписаться"
+
+#: app/extensions/fields/config/metabox/gallery_youtube.php:18
+msgid "Youtube Gallery Settings"
+msgstr "Настройки галереи YouTube"
+
+#: cmbre2/fields/rbsgallery/cmb-field-rbsgallery.php:18
+msgid "none"
+msgstr "отсутствует"
+
+#: includes/options/rbs_gallery_options_view_base.php:121
+msgid "Additional Functionality available in Pro version"
+msgstr "Дополнительные функциональные возможности доступны в версии Pro"
+
+#: includes/frontend/rbs_gallery_class.php:123
+msgid "Please make sure that you setup Youtube API key in gallery settings.  Check values of the video content IDs. Please contact Robo Gallery support if you can't find the reason of this problem."
+msgstr "Убедитесь, что вы установили ключ API Youtube в настройках галереи. Проверьте значения ID видеоконтента. Если вы не можете найти причину проблемы, обратитесь в службу поддержки Robo Gallery."
+
+#: includes/frontend/rbs_gallery_class.php:122
+msgid "No Youtube Videos."
+msgstr "Нет видео на YouTube."
+
+#: includes/rbs_gallery_settings.php:354
+msgid "Just add custom JS files to this field."
+msgstr "Просто добавьте в это поле собственные файлы JS."
+
+#: includes/rbs_gallery_settings.php:334
+msgid "Just add custom CSS files to this field."
+msgstr "Просто добавьте в это поле собственные файлы CSS."
+
+#: includes/rbs_gallery_settings.php:293
+msgid "This is timeout for the clear youtube gallery cache option. Value in hours for the cleaning period of the cached resources."
+msgstr "Это время ожидания для параметра очистки кеша галереи YouTube. Значение периода очистки кэшированных ресурсов в часах."
+
+#: includes/rbs_gallery_settings.php:270
+msgid "for the google developers console"
+msgstr "для консоли разработчиков google"
+
+#: includes/rbs_gallery_settings.php:269
+msgid "this official instruction "
+msgstr "настоящая официальная инструкция "
+
+#: includes/rbs_gallery_settings.php:267
+msgid "If you don't know how to create Youtube API key please follow "
+msgstr "Если вы не знаете, как создать ключ API YouTube, пожалуйста, следуйте инструкции "
+
+#: includes/rbs_gallery_settings.php:253
+msgid "Youtube Api Key"
+msgstr "Ключ API YouTube"
+
+#: includes/rbs_gallery_init.php:104
+msgid "Description. text la la "
+msgstr "Описание. текст ла ла "
+
+#: includes/rbs_gallery_init.php:90
+msgctxt "add new on admin bar"
+msgid "Robo Gallery"
+msgstr "Robo Gallery"
+
+#: includes/rbs_gallery_init.php:89
+msgctxt "admin menu"
+msgid "Robo Gallery"
+msgstr "Robo Gallery"
+
+#: includes/rbs_gallery_init.php:87
+msgid "No galleries found in Trash."
+msgstr "В корзине нет галерей."
+
+#: includes/rbs_gallery_init.php:86
+msgid "No galleries found."
+msgstr "No galleries found."
+
+#: includes/rbs_gallery_init.php:85
+msgid "Parent Robo Galleries:"
+msgstr "Родитель Robo Galleries:"
+
+#: includes/rbs_gallery_init.php:84
+msgid "Search Robo Galleries"
+msgstr "Поиск Robo Galleries"
+
+#: includes/rbs_gallery_init.php:82
+msgid "View Robo Gallery"
+msgstr "Смотреть Robo Gallery"
+
+#: includes/rbs_gallery_init.php:81
+msgid "Add New Robo Gallery"
+msgstr "Добавить новую Robo Gallery"
+
+#: includes/frontend/rbs_gallery_class.php:115
+msgid "Please make sure that you didn't enabled option: Images of the Current Gallery. Option should have Show value to show images."
+msgstr "Убедитесь, что вы не включили опцию: Изображения из текущей галереи. Параметр должен иметь значение Показать, чтобы показывать изображения."
+
+#: includes/extensions/block/src/init.php:94
+msgid "You didn't select any Robo Gallery item in editor. Please select one from the list or create new gallery"
+msgstr "Вы не выбрали ни одного элемента Robo Gallery в редакторе. Dыберите один из списка или создайте новую галерею"
+
+#: includes/extensions/rbs_create_post_ajax.php:199
+msgid "No post"
+msgstr "Нет записи"
+
+#: includes/rbs_gallery_settings.php:350
+msgid "JS Files"
+msgstr "JS-файлы"
+
+#: includes/rbs_gallery_settings.php:344 includes/rbs_gallery_settings.php:364
+msgid "Path for included files from the WordPress Root Directory"
+msgstr "Путь для включенных файлов из корневого каталога WordPress"
+
+#: includes/rbs_gallery_settings.php:330
+msgid "Css Files"
+msgstr "CSS-файлы"
+
+#: includes/rbs_gallery_settings.php:85
+msgid "Custom JS\\CSS"
+msgstr "Произвольные JS/CSS"
+
+#: includes/options/rbs_gallery_options_css.php:60
+msgid "Please save gallery first, to apply custom CSS"
+msgstr "Сначала сохраните галерею, чтобы применить собственный CSS"
+
+#: includes/options/rbs_gallery_options_css.php:48
+msgid "gallery general settings"
+msgstr "основные настройки галереи"
+
+#: includes/options/rbs_gallery_options_css.php:47
+msgid "General custom CSS possible to define in "
+msgstr "Основные настраиваемые CSS можно определить в "
+
+#: includes/options/rbs_gallery_options_css.php:46
+msgid "Add any custom CSS to target this specific gallery."
+msgstr "Добавьте любой настраиваемый CSS, чтобы настроить таргетинг на эту конкретную галерею."
+
+#: includes/options/rbs_gallery_options_css.php:41
+msgid "For example"
+msgstr "К примеру"
+
+#: includes/options/rbs_gallery_options_css.php:31
+msgid "Css Style"
+msgstr "Стиль CSS"
+
+#: includes/options/rbs_gallery_options_css.php:18
+msgid "Custom CSS"
+msgstr "Произвольный CSS"
+
+#: includes/options/rbs_gallery_options_loading.php:57
+msgid "Amount of the image in load more pagination step. After click on Load more button gallery load this amount of new images"
+msgstr "Количество изображения в загрузке больше шага нумерации страниц. После нажатия на кнопку Загрузить больше, галерея загрузит это количество новых изображений"
+
+#: includes/options/rbs_gallery_options_loading.php:48
+msgid "Amount of the  images which gallery load on start by default"
+msgstr "Количество изображений, которые галерея загружает при запуске по умолчанию"
+
+#: includes/frontend/rbs_gallery_class.php:112
+msgid "Please upload images in images manager section. Click on Manage Images button on the right side of the gallery settings."
+msgstr "Загружайте изображения в разделе \"Менеджер изображений\". Нажмите на кнопку \"Управление изображениями\" в правой части настроек галереи."
+
+#: includes/frontend/rbs_gallery_class.php:111
+msgid "No Images."
+msgstr "Нет изображений."
+
+#: app/extensions/dashboard/overview.php:38
+msgid "In the gallery list last column contain shortcode of the every item in the list. Just click on this field and Shortcode will be copied to the clipboard. Another place where you can find shortcode - gallery settings / right side column widget."
+msgstr "В списке галереи последний столбец содержит шорткоды каждого элемента в списке. Просто нажмите на это поле, и шорткод будет скопирован в буфер обмена. Еще одно место, где можно найти шорткод - настройки галереи / виджет правой колонки."
+
+#: app/extensions/dashboard/overview.php:36
+msgid "Where to find Shortcode?"
+msgstr "Где найти шорткод?"
+
+#: app/extensions/dashboard/overview.php:31
+msgid " Current version tested and work properly in Gutenberg editor. Just create gallery and copy / paste shortcode of the selected gallery into Gutenberg post."
+msgstr " Текущая версия протестирована и корректно работает в редакторе Gutenberg. Просто создайте галерею и скопируйте / вставьте шорткод выбранной галереи в запись Gutenberg."
+
+#: app/extensions/dashboard/overview.php:29
+msgid "Robo Gallery is Gutenberg ready!"
+msgstr "Robo Gallery готова к Gutenberg!"
+
+#: includes/options/rbs_gallery_options_hover_base.php:30
+msgid "When you enable this mode entire thumbnail get clickable, not only hover buttons"
+msgstr "Когда вы включаете этот режим, активируется вся миниатюра, а не только кнопки наведения"
+
+#: includes/options/rbs_gallery_options_hover_base.php:26
+msgid "Clickable Thumbnails"
+msgstr "Миниатюры с возможностью клика"
+
+#: includes/options/rbs_gallery_options_size_base.php:38
+msgid "Gallery Alignment"
+msgstr "Выравнивание галереи"
+
+#: includes/rbs_gallery_init.php:77
+msgid "Add Gallery / Images"
+msgstr "Добавить галерею / изображения"
+
+#: app/extensions/dashboard/video_guide.php:107
+msgid "robo gallery do not require any special skills for configuration of your first gallery. Configuration settings is really simple. Just click Add Gallery link on the left side, upload images to the Image Manager and save first gallery with custom title. In the list of the galleries you can find new created gallery with direct link to the front end post generated for this new gallery item"
+msgstr "robo gallery не требует специальных навыков для настройки вашей первой галереи. Настройки конфигурации очень просты. Просто нажмите на ссылку Добавить галерею слева, загрузите изображения в менеджер изображений и сохраните первую галерею с пользовательским названием. В списке галерей вы можете найти новую созданную галерею с прямой ссылкой на фронт-энд пост, созданный для этого нового элемента галереи"
+
+#: app/extensions/dashboard/video_guide.php:106
+msgid "First gallery configuration"
+msgstr "Конфигурация первой галереи"
+
+#: app/extensions/dashboard/video_guide.php:96
+msgid "in robo gallery you can fully customize layout of the thumbnails. Create classic grid, grid with different size thumbnails, masonry layout. You have no limits for customization"
+msgstr "в Robo Gallery вы можете полностью настроить макет миниатюр. Создайте классическую сетку, сетку с миниатюрами разного размера, макет кладки. У вас нет ограничений на настройку"
+
+#: app/extensions/dashboard/video_guide.php:95
+msgid "Robo Gallery grid layout configuration"
+msgstr "Конфигурация макета сетки Robo Gallery"
+
+#: app/extensions/dashboard/video_guide.php:85
+msgid "please watch this video to see how to setup Polaroid style gallery in few simple steps. For the content panel below thumbnails you can use description, title or caption of the images"
+msgstr "посмотрите это видео, чтобы узнать, как настроить галерею в стиле Polaroid за несколько простых шагов. Для панели содержимого под миниатюрами вы можете использовать описание, заголовок или заголовок изображений"
+
+#: app/extensions/dashboard/video_guide.php:84
+msgid "Polaroid style configuration in Robo Gallery"
+msgstr "Конфигурация в стиле Polaroid в Robo Gallery"
+
+#: app/extensions/dashboard/video_guide.php:74
+msgid "every gallery have section where you can manage posts which generated for every gallery item"
+msgstr "в каждой галерее есть раздел, в котором вы можете управлять записями, создаваемыми для каждого элемента галереи"
+
+#: app/extensions/dashboard/video_guide.php:73
+msgid "Robo Gallery Post Generator"
+msgstr "Генератор записи Robo Gallery"
+
+#: app/extensions/dashboard/video_guide.php:63
+msgid "every created gallery have different shortcode with ID. You can use gallery inside generated by default post, in gallery widget or use short code in any post or page"
+msgstr "каждая созданная галерея имеет свой шорткод с ID. Вы можете использовать галерею внутри, созданную сообщением по умолчанию, в виджете галереи или использовать короткий код в любой записи или странице"
+
+#: app/extensions/dashboard/video_guide.php:62
+msgid "How to use Robo Gallery shortcode"
+msgstr "Как использовать шорткод Robo Gallery"
+
+#: app/extensions/dashboard/video_guide.php:52
+msgid "video show process of the upload and management of the gallery images resources. Check how to use additional options of the images. Where to specify links and video links for the gallery images"
+msgstr "видео показать процесс загрузки и управления ресурсами изображений галереи. Проверьте, как использовать дополнительные параметры изображений. Где указать ссылки и ссылки на видео для изображений галереи"
+
+#: app/extensions/dashboard/video_guide.php:51
+msgid "Upload Robo Gallery Images"
+msgstr "Загрузить изображения Robo Gallery"
+
+#: app/extensions/dashboard/video_guide.php:41
+msgid "in robo gallery you can use drag and drop editor for configuration of the categories three. Here you can see how to create sub categories for main galleries"
+msgstr "в robo gallery вы можете использовать редактор перетащить и вставить для настройки трех рубрик. Здесь вы можете увидеть, как создать подкатегории для основных галерей"
+
+#: app/extensions/dashboard/video_guide.php:40
+msgid "Robo Gallery - Drag and Drop Categories Management"
+msgstr "Robo Gallery - управление рубриками с помощью перетаскивания и вставки"
+
+#: app/extensions/dashboard/video_guide.php:30
+msgid "this video show how to install key for activation premium features of the robo gallery"
+msgstr "в этом видео показано, как установить ключ для активации премиум функций robo gallery"
+
+#: app/extensions/dashboard/video_guide.php:29
+msgid "Robo Gallery Key Installation"
+msgstr "Установка ключа Robo Gallery"
+
+#: app/extensions/dashboard/video_guide.php:21
+msgid "Post Support Ticket"
+msgstr "Отправить тикет поддержки"
+
+#: app/extensions/dashboard/video_guide.php:18
+msgid "If you have some new features request or some functionality update for our gallery plugin please <a href=\"%s\">post some message</a> with description."
+msgstr "Если у вас есть запрос на новые функции или обновление функций для нашего плагина галереи, пожалуйста, <a href=\"%s\">разместите сообщение </a> с описанием."
+
+#: app/extensions/dashboard/video_guide.php:16
+msgid "If you have some questions or any kind of problems with gallery installation or configuration feel free to <a href=\"%s\">post ticket here</a>. "
+msgstr "Если у вас есть вопросы или какие-либо проблемы с установкой или настройкой галереи, не стесняйтесь <a href=\"%s\"> разместить заявку здесь </a> "
+
+#: app/extensions/dashboard/overview.php:43
+#: app/extensions/dashboard/video_guide.php:14
+msgid "Need some Help ?"
+msgstr "Нужна помощь?"
+
+#: app/extensions/dashboard/overview.php:24
+msgid "That's it! Your first Robo Gallery Created!"
+msgstr "Вот и все! Ваша первая Robo Gallery создана!"
+
+#: app/extensions/dashboard/overview.php:21
+msgid "After save of the Publish button, below title you can find Permalink field with direct link to the created gallery on front end."
+msgstr "После сохранения кнопки Publish (Опубликовать), под заголовком вы можете найти поле Permalink(Постоянная ссылка) с прямой ссылкой на созданную галерею на фронт-энде."
+
+#: app/extensions/dashboard/overview.php:20
+msgid "Click on Manage Images button on the right side to open section where you can upload or manage your gallery resources."
+msgstr "Нажмите на кнопку Manage Images (Управление изображениями) справа, чтобы открыть раздел, в котором вы можете загружать или управлять ресурсами вашей галереи."
+
+#: app/extensions/dashboard/overview.php:19
+msgid "Define some Gallery title on top in another case title will be generated automatically when you click on save button."
+msgstr "Определите заголовок галереи сверху, в другом случае заголовок будет сгенерирован автоматически, когда вы нажмете кнопку сохранения."
+
+#: app/extensions/dashboard/overview.php:18
+msgid "Click <a href=\"%s\" target=\"_blank\">Add Gallery link</a> on the left side menu."
+msgstr "Нажмите <a href=\"%s\" target=\"_blank\">ссылку Добавить галерею</a> в меню слева."
+
+#: app/extensions/dashboard/overview.php:15
+msgid "How To Configure Your First Gallery?"
+msgstr "Как настроить первую галерею?"
+
+#: app/extensions/dashboard/overview.php:45
+msgid "If you have some questions or any kind of problems with gallery installation or configuration feel free to <a href=\"%s\"  target=\"_blank\">post ticket here</a>. "
+msgstr "Если у вас есть вопросы или какие-либо проблемы с установкой или настройкой галереи, не стесняйтесь <a href=\"%s\" target=\"_blank\">разместить заявку здесь</a>. "
+
+#: app/extensions/dashboard/class.dashboard.php:156
+msgid "In our gallery you can easily customize layouts and interface styles. "
+msgstr "В нашей галерее вы можете легко настроить макеты и стили интерфейса. "
+
+#: app/extensions/dashboard/class.dashboard.php:154
+msgid "Flexible gallery images management tools. Links, videos and gallery lightbox support. "
+msgstr "Гибкие инструменты управления изображениями в галерее. Поддержка ссылок, видео и лайтбокса галереи. "
+
+#: app/extensions/dashboard/class.dashboard.php:152
+msgid "Robo Gallery is advanced responsive photo gallery plugin."
+msgstr "Robo Gallery - расширенный плагин для создания адаптивной фотогалереи."
+
+#: app/extensions/dashboard/class.dashboard.php:146
+msgid "Pro version"
+msgstr "Pro версия"
+
+#: app/extensions/dashboard/class.dashboard.php:81
+msgid "Get Pro Version"
+msgstr "Получить версию Pro"
+
+#: app/extensions/dashboard/class.dashboard.php:76
+#: app/extensions/dashboard/class.dashboard.php:145
+msgid "Demos"
+msgstr "Демонстрация"
+
+#: app/extensions/dashboard/class.dashboard.php:69
+msgid "Help & Support"
+msgstr "Помощь и поддержка"
+
+#: app/extensions/dashboard/class.dashboard.php:64
+msgid "Add-ons"
+msgstr "Дополнения"
+
+#: app/extensions/dashboard/class.dashboard.php:45
+#: app/extensions/dashboard/class.dashboard.php:58
+msgid "Overview"
+msgstr "Обзор"
+
+#: app/extensions/dashboard/class.dashboard.php:43
+msgid "Welcome to Robo Gallery"
+msgstr "Добро пожаловать в Robo Gallery"
+
+#: includes/rbs_gallery_widget.php:136
+msgid "Install Paid Version"
+msgstr "Установить платную версию"
+
+#: includes/rbs_gallery_widget.php:134
+msgid "Install Free Version"
+msgstr "Установить бесплатную версию"
+
+#: includes/rbs_gallery_widget.php:131
+msgid "You need to install new version of the widget to make it work. Install free or paid version of the Image Widget."
+msgstr "Вам необходимо установить новую версию виджета, чтобы он заработал. Установите бесплатную или платную версию Image Widget."
+
+#: includes/rbs_gallery_widget.php:116
+msgid "Gallery Widget"
+msgstr "Виджет галереи"
+
+#: includes/rbs_gallery_widget.php:100
+msgid "Most Viewed Gallery"
+msgstr "Самая просматриваемая галерея"
+
+#: includes/rbs_gallery_widget.php:99
+msgid "Random Gallery"
+msgstr "Случайная галерея"
+
+#: includes/rbs_gallery_widget.php:98
+msgid "Latest Gallery"
+msgstr "Последняя галерея"
+
+#: includes/rbs_gallery_init.php:76
+msgid "Manage Galleries"
+msgstr "Управление галереями"
+
+#: app/extensions/manager/class.addons.php:182
+msgid "Confirm"
+msgstr "Подтвердить"
+
+#: app/extensions/manager/class.addons.php:180
+#: app/extensions/manager/templates/confirm.tpl.php:6
+msgid "Please confirm that you wish to install new Add-on:"
+msgstr "Подтвердите, что вы хотите установить новое дополнение:"
+
+#: app/extensions/manager/class.addons.php:179
+msgid "Confirmation"
+msgstr "Потверждение"
+
+#: app/extensions/manager/templates/addons.tpl.php:24
+msgid "Navigation"
+msgstr "Навигация"
+
+#: app/extensions/manager/templates/addons.tpl.php:23
+msgid "Lightbox"
+msgstr "Лайтбокс"
+
+#: app/extensions/manager/templates/addons.tpl.php:11
+msgid "Add-ons for %s it's even more awesome functionality and flexibility for the core gallery plugin."
+msgstr "Дополнения для %s - это еще более потрясающая функциональность и гибкость для основного плагина галереи."
+
+#: app/extensions/manager/templates/addons.tpl.php:6
+msgid "%s Add-ons"
+msgstr "%s дополнения"
+
+#: app/extensions/manager/templates/addon.tpl.php:106
+msgid "Oops ... Something went wrong. WordPress don't able to download add-on. Please try again later or download it manually from <a class='thickbox open-plugin-details-modal' href='%s'>[here]</a>. In the case if this situation repeat contact our [support team]"
+msgstr "Что-то пошло не так. WordPress не может загрузить дополнение. Пожалуйста, повторите попытку позже или скачайте его вручную из <a class='thickbox open-plugin-details-modal' href='%s'>[здесь]</a>. В случае повторения данной ситуации свяжитесь с нашей [группой поддержки]"
+
+#: app/extensions/manager/templates/addon.tpl.php:97
+msgid "Purchase"
+msgstr "Купить"
+
+#: app/extensions/manager/class.addons.php:493
+msgid "You don't have permission for activate plugin"
+msgstr "У вас нет разрешения на активацию плагина"
+
+#: app/extensions/manager/class.addons.php:177
+msgid "Installed"
+msgstr "Установленные"
+
+#: app/extensions/manager/class.addons.php:176
+msgid "Installing"
+msgstr "Установка"
+
+#: app/extensions/manager/class.addons.php:175
+#: app/extensions/manager/templates/addon.tpl.php:85
+msgid "Install Now"
+msgstr "Установить сейчас"
+
+#: app/extensions/manager/class.addons.php:173
+msgid "Information"
+msgstr "Информация"
+
+#: app/extensions/manager/class.addons.php:170
+msgid "Deactivated"
+msgstr "Деактивировано"
+
+#: app/extensions/manager/class.addons.php:169
+msgid "Deactivating"
+msgstr "Деактивация"
+
+#: app/extensions/manager/class.addons.php:168
+#: app/extensions/manager/templates/addon.tpl.php:33
+#: app/extensions/manager/templates/addon.tpl.php:48
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+#: app/extensions/manager/class.addons.php:166
+msgid "Activated"
+msgstr "Активировано"
+
+#: app/extensions/manager/class.addons.php:165
+msgid "Activating"
+msgstr "Активация"
+
+#: app/extensions/manager/class.addons.php:164
+#: app/extensions/manager/templates/addon.tpl.php:68
+msgid "Activate"
+msgstr "Активировать"
+
+#: app/extensions/manager/class.addons.php:162
+msgid "Downloading"
+msgstr "Загрузка"
+
+#: app/extensions/manager/class.addons.php:161
+msgid "Download"
+msgstr "Скачать"
+
+#: includes/rbs_gallery_settings.php:318
+msgid "This is timeout for the clear gallery cache option. Value in hours for the cleaning period of the cached resources."
+msgstr "Это время ожидания для параметра очистки кеша галереи. Значение периода очистки кэшированных ресурсов в часах."
+
+#: includes/rbs_gallery_settings.php:283 includes/rbs_gallery_settings.php:308
+msgid "Clear cache timeout"
+msgstr "Очистить тайм-аут кэша"
+
+#: includes/rbs_gallery_settings.php:101
+msgid "Robo Gallery Settings"
+msgstr "Настройки Robo Gallery"
+
+#: includes/rbs_gallery_settings.php:84
+msgid "Cache Settings"
+msgstr "Настройки кеша"
+
+#: app/extensions/fields/config/metabox/gallery_slider_general.php:174
+#: includes/options/cache.php:44
+msgid "here"
+msgstr "здесь"
+
+#: includes/options/cache.php:44
+msgid "You can configure timeout for cleaning  of the cached resources "
+msgstr "Вы можете настроить тайм-аут для очистки кэшированных ресурсов "
+
+#: includes/extensions/stats/stats.class.php:39
+msgid "Statistics Gallery"
+msgstr "Статистика Галереи"
+
+#: includes/options/cache.php:43
+msgid "If you modify settings gallery generate new cache after save."
+msgstr "При изменении настроек галерея после сохранения генерирует новый кэш."
+
+#: includes/options/cache.php:33
+msgid "Make your gallery unbelievable faster. With enabled cache option you gallery load faster in ten times."
+msgstr "Сделайте вашу галерею невероятно быстрой. С включенной опцией кэширования галерея загружается в десять раз быстрее."
+
+#: includes/options/cache.php:12 includes/options/cache.php:20
+msgid "Cache"
+msgstr "Кэш"
+
+#: includes/rbs_gallery_config.php:57
+msgid "How to create shortcode?"
+msgstr "Как создать шорткод?"
+
+#: includes/rbs_gallery_config.php:52
+msgid "How to upload gallery images?"
+msgstr "Как загрузить изображения из галереи?"
+
+#: includes/rbs_gallery_config.php:47
+msgid "How to manage gallery post?"
+msgstr "Как управлять галереей записи?"
+
+#: includes/rbs_gallery_config.php:42
+msgid "Install and configuration guide"
+msgstr "Руководство по установке и настройке"
+
+#: includes/rbs_gallery_config.php:37
+msgid "How to setup Polaroid style?"
+msgstr "Как установить стиль Polaroid?"
+
+#: includes/rbs_gallery_config.php:32
+msgid "New Categories Manager"
+msgstr "Менеджер новых рубрик"
+
+#: includes/rbs_gallery_config.php:27
+msgid "How to make custom grid layout?"
+msgstr "Как сделать собственный макет сетки?"
+
+#: includes/rbs_gallery_config.php:22
+msgid "How to install key?"
+msgstr "Как установить ключ?"
+
+#: includes/options/rbs_gallery_options_lightbox_base.php:140
+msgid "Panel"
+msgstr "Панель"
+
+#: includes/options/rbs_gallery_options_lightbox_base.php:115
+msgid "Lightbox Description Panel"
+msgstr "Панель описания лайтбокса"
+
+#: includes/options/rbs_gallery_options_lightbox_base.php:114
+msgid "Control Buttons"
+msgstr "Кнопки управления"
+
+#: includes/extensions/rbs_create_post.php:17
+msgid "Loading"
+msgstr "Загрузка"
+
+#. Author of the plugin
+#: robogallery.php
+msgid "RoboSoft"
+msgstr "RoboSoft"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: robogallery.php
+msgid "https://robosoft.co/gallery"
+msgstr "https://robosoft.co/gallery"
+
+#: includes/rbs_gallery_widget.php:148 includes/rbs_gallery_widget_last.php:78
+msgid "Gallery:"
+msgstr "Галерея:"
+
+#: includes/rbs_gallery_widget_last.php:45
+msgid "New gallery"
+msgstr "Новая галерея"
+
+#: includes/rbs_gallery_widget_last.php:36
+#: includes/rbs_gallery_widget_last.php:69
+msgid "This widget available in Pro version"
+msgstr "Виджет доступен в Pro версии"
+
+#: includes/rbs_gallery_widget.php:21 includes/rbs_gallery_widget_last.php:21
+msgid "Publish gallery on your website."
+msgstr "Опубликуйте галерею на своем сайте."
+
+#: includes/rbs_gallery_widget.php:20 includes/rbs_gallery_widget_last.php:20
+msgid "Robo Gallery Widget"
+msgstr "Виджет Robo Gallery"
+
+#: includes/rbs_gallery_settings.php:549 includes/rbs_gallery_settings.php:550
+#: includes/rbs_gallery_settings.php:553
+msgid "Enable [thumbs + link]"
+msgstr "Включить [миниатюры + ссылка]"
+
+#: includes/rbs_gallery_settings.php:542 includes/rbs_gallery_settings.php:543
+#: includes/rbs_gallery_settings.php:546
+msgid "Enable [thumbs]"
+msgstr "Включить [миниатюры]"
+
+#: includes/rbs_gallery_settings.php:539
+msgid "Add SEO content"
+msgstr "Добавить SEO-контент"
+
+#: includes/rbs_gallery_settings.php:88
+msgid "SEO Optimization"
+msgstr "SEO оптимизация"
+
+#: includes/rbs_gallery_settings.php:517
+msgid "Show Clone Block"
+msgstr "Показать блок Клонирование"
+
+#: includes/rbs_gallery_settings.php:514
+msgid "Clone Block"
+msgstr "Клонировать блок"
+
+#: includes/rbs_gallery_settings.php:498
+msgid "Show Text"
+msgstr "Показать текст"
+
+#: includes/rbs_gallery_settings.php:495
+msgid "Text Block"
+msgstr "Текстовый блок"
+
+#: includes/rbs_gallery_settings.php:87
+msgid "Create Post Settings"
+msgstr "Создать настройки для записи"
+
+#: includes/rbs_gallery_settings.php:470
+msgid "Express panel"
+msgstr "Экспресс-панель"
+
+#: includes/options/rbs_gallery_options_size_base.php:41
+#: includes/rbs_gallery_settings.php:169 includes/rbs_gallery_settings.php:172
+#: includes/rbs_gallery_settings.php:237 includes/rbs_gallery_settings.php:240
+#: includes/rbs_gallery_settings.php:460 includes/rbs_gallery_settings.php:463
+#: includes/rbs_gallery_settings.php:479 includes/rbs_gallery_settings.php:482
+#: includes/rbs_gallery_settings.php:555 includes/rbs_gallery_settings.php:558
+msgid "Disable"
+msgstr "Выключить"
+
+#: includes/rbs_gallery_settings.php:163 includes/rbs_gallery_settings.php:164
+#: includes/rbs_gallery_settings.php:167 includes/rbs_gallery_settings.php:231
+#: includes/rbs_gallery_settings.php:232 includes/rbs_gallery_settings.php:235
+#: includes/rbs_gallery_settings.php:454 includes/rbs_gallery_settings.php:455
+#: includes/rbs_gallery_settings.php:458 includes/rbs_gallery_settings.php:473
+#: includes/rbs_gallery_settings.php:474 includes/rbs_gallery_settings.php:477
+msgid "Enable"
+msgstr "Включить"
+
+#: includes/rbs_gallery_settings.php:451
+msgid "Debug"
+msgstr "Отладка"
+
+#: includes/rbs_gallery_settings.php:445
+msgid "Size Calculations Delay"
+msgstr "Задержка при расчетах размеров"
+
+#: includes/rbs_gallery_settings.php:439
+msgid "for the case if Your theme already have awesome fonts loaded"
+msgstr "на случай, если в вашей теме уже загружены шрифты awesome"
+
+#: includes/rbs_gallery_settings.php:434 includes/rbs_gallery_settings.php:437
+msgid "Don't load"
+msgstr "Не загружать"
+
+#: includes/rbs_gallery_settings.php:429 includes/rbs_gallery_settings.php:432
+msgid "Load"
+msgstr "Загрузить"
+
+#: includes/rbs_gallery_settings.php:425 includes/rbs_gallery_settings.php:428
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: includes/rbs_gallery_settings.php:415 includes/rbs_gallery_settings.php:418
+msgid "Forced include"
+msgstr "Принудительно вкладывать"
+
+#: includes/rbs_gallery_settings.php:408 includes/rbs_gallery_settings.php:411
+msgid "Alternative"
+msgstr "Альтернатива"
+
+#: includes/rbs_gallery_settings.php:403 includes/rbs_gallery_settings.php:406
+msgid "Default"
+msgstr "По умолчанию"
+
+#: includes/rbs_gallery_settings.php:396 includes/rbs_gallery_settings.php:402
+msgid "jQuery Version"
+msgstr "Версия jQuery"
+
+#: includes/rbs_gallery_settings.php:387 includes/rbs_gallery_settings.php:390
+#: includes/rbs_gallery_settings.php:504 includes/rbs_gallery_settings.php:507
+#: includes/rbs_gallery_settings.php:523 includes/rbs_gallery_settings.php:526
+msgid "Hide"
+msgstr "Скрыть"
+
+#: includes/rbs_gallery_settings.php:381 includes/rbs_gallery_settings.php:382
+#: includes/rbs_gallery_settings.php:385 includes/rbs_gallery_settings.php:499
+#: includes/rbs_gallery_settings.php:502 includes/rbs_gallery_settings.php:518
+#: includes/rbs_gallery_settings.php:521
+msgid "Show"
+msgstr "Показать"
+
+#: includes/rbs_gallery_settings.php:378
+msgid "Categories Manager"
+msgstr "Управление рубрикой"
+
+#: includes/rbs_gallery_settings.php:86
+msgid "Compatibility Settings"
+msgstr "Настройки совместимости"
+
+#: includes/rbs_gallery_media.php:114
+msgid "inherit"
+msgstr "наследовать"
+
+#: includes/rbs_gallery_media.php:90
+msgid "Video"
+msgstr "Видео"
+
+#: includes/rbs_gallery_media.php:82
+msgid "Blank Link"
+msgstr "Пустая ссылка"
+
+#: includes/rbs_gallery_media.php:69
+msgid "Link"
+msgstr "Ссылка"
+
+#: includes/rbs_gallery_media.php:62
+msgid "Column"
+msgstr "Столбец"
+
+#: app/class.listing.php:62
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: app/class.listing.php:61
+msgid "Views"
+msgstr "Просмотры"
+
+#: app/class.listing.php:99
+msgid "You can create only 3 galleries. Update to PRO to get unlimited galleries"
+msgstr "Вы можете создать только 3 галереи. Обновите на PRO версию чтобы убрать это ограничение"
+
+#: includes/rbs_gallery_init.php:79
+#: includes/extensions/block/dist/blocks.build.js:110
+msgid "Edit Gallery"
+msgstr "Изменить галерею"
+
+#: includes/rbs_gallery_init.php:78
+msgid "Add Gallery"
+msgstr "Добавить галерею"
+
+#: includes/rbs_gallery_init.php:21
+msgid " key"
+msgstr " ключ"
+
+#: includes/rbs_gallery_init.php:21
+msgid "Please update "
+msgstr "Обновить "
+
+#: includes/rbs_gallery_init.php:18
+msgid "Available in"
+msgstr "Доступно в"
+
+#: includes/rbs_gallery_button.php:47 includes/rbs_gallery_widget.php:157
+#: includes/rbs_gallery_widget_last.php:83
+msgid "Robo Gallery plugin"
+msgstr "Плагин Robo Gallery"
+
+#: includes/rbs_gallery_button.php:47 includes/rbs_gallery_widget.php:155
+#: includes/rbs_gallery_widget_last.php:81
+msgid "Configure it in"
+msgstr "Настроить в"
+
+#: includes/rbs_gallery_button.php:46
+#: includes/extensions/block/dist/blocks.build.js:165
+msgid "Select gallery"
+msgstr "Выбрать галерею"
+
+#: includes/rbs_gallery_button.php:35
+msgid "Add Robo Gallery"
+msgstr "Добавить Robo Gallery"
+
+#: includes/rbs_gallery_button.php:29
+msgid "Insert"
+msgstr "Вставить"
+
+#. Plugin Name of the plugin
+#: robogallery.php app/extensions/galleryType/init.php:120
+#: includes/rbs_gallery_button.php:27 includes/rbs_gallery_init.php:75
+#: includes/rbs_gallery_media.php:41
+#: includes/extensions/block/dist/blocks.build.js:110
+msgid "Robo Gallery"
+msgstr "Robo Gallery"
+
+#: includes/options/rbs_gallery_options_view_base.php:110
+msgid "Border Options"
+msgstr "Параметры рамки"
+
+#: includes/options/rbs_gallery_options_view_base.php:64
+msgid "Shadow Options"
+msgstr "Параметры тени"
+
+#: includes/options/rbs_gallery_options_view_base.php:54
+msgid "Shadow"
+msgstr "Тень"
+
+#: includes/options/rbs_gallery_options_view_base.php:28
+msgid "Radius"
+msgstr "Радиус"
+
+#: includes/options/rbs_gallery_options_view_base.php:19
+msgid "Thumbs View Options"
+msgstr "Параметры просмотра миниатюр"
+
+#: includes/options/rbs_gallery_options_tools.php:47
+msgid "Success: Statistic successfully reset!"
+msgstr "Успех: Статистика успешно обнулена!"
+
+#: includes/options/rbs_gallery_options_tools.php:47
+msgid "Are you sure that you wish to reset statistics?"
+msgstr "Вы действительно хотите сбросить статистику?"
+
+#: includes/options/rbs_gallery_options_tools.php:45
+msgid "Gallery Views"
+msgstr "Просмотры галереи"
+
+#: includes/options/rbs_gallery_options_tools.php:31
+msgid "Here you can create and customize new post with gallery inside it"
+msgstr "Здесь вы можете создать и настроить новую запись с галереей внутри нее"
+
+#: includes/options/rbs_gallery_options_tools.php:40
+msgid "Posts List"
+msgstr "Список записей"
+
+#: includes/options/rbs_gallery_options_tools.php:19
+msgid "Gallery Tools"
+msgstr "Инструменты галереи"
+
+#: includes/options/rbs_gallery_options_text.php:39
+#: includes/options/rbs_gallery_options_text.php:47
+msgid "After Text"
+msgstr "После текста"
+
+#: includes/options/rbs_gallery_options_text.php:27
+#: includes/options/rbs_gallery_options_text.php:35
+msgid "Pre Text"
+msgstr "Предварительный текст"
+
+#: includes/options/rbs_gallery_options_text.php:19
+msgid "Text Addons"
+msgstr "Текстовые дополнения"
+
+#: includes/options/rbs_gallery_options_size_base.php:74
+msgid "Custom Ratio"
+msgstr "Произвольное соотношение"
+
+#: includes/options/rbs_gallery_options_size_base.php:60
+msgid "Thumbs Options"
+msgstr "Параметры миниатюр"
+
+#: includes/options/rbs_gallery_options_size_base.php:51
+msgid "Padding"
+msgstr "Внутренний отступ"
+
+#: includes/options/rbs_gallery_options_size_base.php:19
+msgid "Gallery Size Options"
+msgstr "Параметры размера галереи"
+
+#: app/extensions/fields/config/metabox/shortcode.php:34
+#: includes/options/rbs_gallery_options_shortcode.php:30
+msgid "use this shortcode to insert this gallery into page, post or widget"
+msgstr "используйте этот шорткод для вставки этой галереи на страницу, в запись или виджет"
+
+#: app/extensions/fields/config/metabox/shortcode.php:22
+#: includes/options/rbs_gallery_options_shortcode.php:19
+msgid "Gallery Shortcode"
+msgstr "Шорткод галереи"
+
+#: includes/options/rbs_gallery_options_polaroid_base.php:7
+msgid "Polaroid Style Options"
+msgstr "Параметры стиля Polaroid"
+
+#: includes/options/rbs_gallery_options_loading.php:110
+msgid "No More Entries Label"
+msgstr "Этикетка Нет больше записей"
+
+#: includes/options/rbs_gallery_options_loading.php:103
+msgid "Load More Label"
+msgstr "Загрузить больше этикеток"
+
+#: includes/options/rbs_gallery_options_loading.php:93
+msgid "Loading Label"
+msgstr "Этикетка при загрузке"
+
+#: includes/options/rbs_gallery_options_loading.php:73
+msgid "Wait No Matter What"
+msgstr "Подождите, несмотря ни на что"
+
+#: includes/options/rbs_gallery_options_loading.php:65
+msgid "Wait Thumbs Load"
+msgstr "Ожидание загрузки миниатюр"
+
+#: includes/options/rbs_gallery_options_loading.php:54
+msgid "Load More Amount"
+msgstr "Загрузить большее количество"
+
+#: includes/options/rbs_gallery_options_loading.php:44
+msgid "Images Amount"
+msgstr "Количество изображений"
+
+#: includes/options/rbs_gallery_options_loading.php:36
+msgid "Loading Text"
+msgstr "Загрузка текста"
+
+#: includes/options/rbs_gallery_options_loading.php:26
+msgid "Lazy Load"
+msgstr "Отложенная загрузка"
+
+#: includes/options/rbs_gallery_options_loading.php:19
+#: includes/options/rbs_gallery_options_loading.php:35
+msgid "Loading Options"
+msgstr "Параметры загрузки"
+
+#: includes/options/rbs_gallery_options_lightbox_base.php:176
+msgid "Pink"
+msgstr "Розовый"
+
+#: includes/options/rbs_gallery_options_lightbox_base.php:175
+msgid "Green"
+msgstr "Зелёный"
+
+#: includes/options/rbs_gallery_options_lightbox_base.php:174
+msgid "Blue"
+msgstr "Синий"
+
+#: includes/options/rbs_gallery_options_lightbox_base.php:173
+msgid "Red"
+msgstr "Красный"
+
+#: includes/options/rbs_gallery_options_lightbox_base.php:172
+msgid "Dark"
+msgstr "Темная"
+
+#: includes/options/rbs_gallery_options_lightbox_base.php:171
+msgid "Light"
+msgstr "Светлая"
+
+#: includes/options/rbs_gallery_options_lightbox_base.php:165
+msgid "Description Style"
+msgstr "Стиль описания"
+
+#: includes/options/rbs_gallery_options_lightbox_base.php:151
+msgid "Description Source"
+msgstr "Источник описания"
+
+#: includes/options/rbs_gallery_options_lightbox_base.php:99
+msgid "Mobile Style"
+msgstr "Мобильный стиль"
+
+#: includes/options/rbs_gallery_options_lightbox_base.php:122
+msgid "Arrow Icon"
+msgstr "Значок стрелки"
+
+#: includes/options/rbs_gallery_options_lightbox_base.php:106
+msgid "Close Icon"
+msgstr "Значок закрытия"
+
+#: includes/options/rbs_gallery_options_lightbox_base.php:89
+msgid "Counter Divider"
+msgstr "Разделитель счётчиков"
+
+#: includes/options/rbs_gallery_options_lightbox_base.php:78
+msgid " Images Counter"
+msgstr " Счётчик изображений"
+
+#: includes/options/rbs_gallery_options_lightbox_base.php:73
+msgid "This option enable linking for every particular image "
+msgstr "Эта опция позволяет установить ссылку для каждого конкретного изображения "
+
+#: includes/options/rbs_gallery_options_lightbox_base.php:70
+msgid "Deep Linking"
+msgstr "Внешняя [гипер] ссылка"
+
+#: includes/options/rbs_gallery_options_lightbox_base.php:52
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: includes/options/rbs_gallery_options_lightbox_base.php:45
+#: includes/options/rbs_gallery_options_lightbox_base.php:159
+msgid "Caption"
+msgstr "Подпись"
+
+#: includes/options/rbs_gallery_options_lightbox_base.php:37
+msgid "Text Source"
+msgstr "Источник текста"
+
+#: includes/options/rbs_gallery_options_lightbox_base.php:19
+msgid "Lightbox Options"
+msgstr "Параметры лайтбокса"
+
+#: app/extensions/fields/template/field/text/images.tpl.php:70
+msgid "Manage Images"
+msgstr "Управление изображениями"
+
+#: includes/options/rbs_gallery_options_hover_base.php:119
+msgid "Zoom Icon"
+msgstr "Значок масштабирования"
+
+#: includes/options/rbs_gallery_options_hover_base.php:99
+msgid "Link Icon"
+msgstr "Значок ссылки"
+
+#: includes/options/rbs_gallery_options_lightbox_base.php:44
+#: includes/options/rbs_gallery_options_lightbox_base.php:158
+msgid "Description"
+msgstr "Описание"
+
+#: includes/options/rbs_gallery_options_hover_base.php:90
+msgid "Zoom Button"
+msgstr "Кнопка масштабирования"
+
+#: includes/options/rbs_gallery_options_hover_base.php:89
+msgid "Link Button"
+msgstr "Кнопка ссылки"
+
+#: includes/options/rbs_gallery_options_hover_base.php:72
+msgid "Show Title"
+msgstr "Показать заголовок"
+
+#: includes/rbs_gallery_media.php:113
+msgid "fade"
+msgstr "исчезание"
+
+#: includes/rbs_gallery_media.php:112
+msgid "direction-bottom"
+msgstr "направление вниз"
+
+#: includes/rbs_gallery_media.php:111
+msgid "direction-top"
+msgstr "направление вверх"
+
+#: includes/rbs_gallery_media.php:110
+msgid "direction-left"
+msgstr "направление влево"
+
+#: includes/rbs_gallery_media.php:109
+msgid "direction-right"
+msgstr "направление вправо"
+
+#: includes/rbs_gallery_media.php:108
+msgid "direction-aware-fade"
+msgstr "исчезание с учетом направления"
+
+#: includes/rbs_gallery_media.php:107
+msgid "direction-aware"
+msgstr "с учетом направления"
+
+#: includes/rbs_gallery_media.php:102
+msgid "push-down-100%"
+msgstr "сдвиг вниз 100%"
+
+#: includes/rbs_gallery_media.php:101
+msgid "push-up-100%"
+msgstr "сдвиг вверх 100%"
+
+#: includes/rbs_gallery_media.php:100
+msgid "push-down"
+msgstr "сдвиг вниз"
+
+#: includes/rbs_gallery_media.php:99
+msgid "push-up"
+msgstr "сдвиг вверх"
+
+#: includes/rbs_gallery_media.php:122
+msgid "Effect"
+msgstr "Эффект"
+
+#: includes/options/rbs_gallery_options_loading.php:81
+msgid "Bg Color"
+msgstr "Цвет фона"
+
+#: includes/options/rbs_gallery_options_hover_base.php:54
+msgid "this option turn off hover effect only for mobile devices"
+msgstr "эта опция отключает эффект наведения только для мобильных устройств"
+
+#: includes/options/rbs_gallery_options_hover_base.php:51
+msgid "No Hover for Mobile"
+msgstr "Нет наведения для мобильных"
+
+#: app/extensions/fields/include/roboGalleryFieldsField/roboGalleryFieldsFieldCheckbox.php:24
+#: app/extensions/fields/include/roboGalleryFieldsField/roboGalleryFieldsFieldCheckboxGroupSwitch.php:19
+#: includes/options/rbs_gallery_options_hover_base.php:34
+#: includes/rbs_gallery_media.php:78
+msgid "Off"
+msgstr "Выкл"
+
+#: app/extensions/fields/include/roboGalleryFieldsField/roboGalleryFieldsFieldCheckbox.php:23
+#: app/extensions/fields/include/roboGalleryFieldsField/roboGalleryFieldsFieldCheckboxGroupSwitch.php:18
+#: includes/options/rbs_gallery_options_hover_base.php:33
+#: includes/rbs_gallery_media.php:77
+msgid "On"
+msgstr "Вкл"
+
+#: includes/options/rbs_gallery_options_hover_base.php:19
+msgid "Hover Options"
+msgstr "Параметры наведения"
+
+#: includes/options/rbs_gallery_options_guides.php:22
+msgid "Video Guides"
+msgstr "Видео инструкции"
+
+#: includes/options/rbs_gallery_options_copy.php:41
+msgid "Very useful option for the webmasters who planning to create a lot of galleries. You don't have to configure it every time. Just setup styles of the gallery in one place and use the same options for another galleries on your website in another galleries.  Very fast, comfortable, advanced tool to speed up your work flow!"
+msgstr "Очень полезный вариант для веб-мастеров, планирующих создавать множество галерей. Вам не нужно настраивать его каждый раз. Просто настройте стили галереи в одном месте и используйте те же параметры для других галерей на своем веб-сайте в других галереях. Очень быстрый, удобный и продвинутый инструмент для ускорения рабочего процесса!"
+
+#: includes/options/rbs_gallery_options_copy.php:40
+msgid "When you select here to inherit settings from another gallery you'll not be able to edit some of the options. Gallery will copy all settings from selected source."
+msgstr "Если вы выберете здесь наследование настроек из другой галереи, вы не сможете редактировать некоторые параметры. Галерея скопирует все настройки из выбранного источника."
+
+#: includes/options/rbs_gallery_options_copy.php:39
+msgid "Source Gallery"
+msgstr "Исходная галерея"
+
+#: includes/options/rbs_gallery_options_copy.php:31
+msgid " Clone Gallery"
+msgstr " Копировать галерею"
+
+#: includes/options/rbs_gallery_options_button_base.php:179
+msgid "search"
+msgstr "поиск"
+
+#: includes/options/rbs_gallery_options_size_base.php:43
+msgid "Center"
+msgstr "По центру"
+
+#: includes/options/rbs_gallery_options_view_base.php:100
+msgid "Border"
+msgstr "Рамка"
+
+#: includes/options/rbs_gallery_options_button_base.php:81
+msgid "All"
+msgstr "Все"
+
+#: includes/options/rbs_gallery_options_button_base.php:69
+msgid "Search"
+msgstr "Поиск"
+
+#: includes/options/rbs_gallery_options_button_base.php:65
+msgid "Menu Style"
+msgstr "Стиль меню"
+
+#: includes/options/rbs_gallery_options_button_base.php:62
+msgid "Menu Labels"
+msgstr "Этикетки меню"
+
+#: includes/rbs_gallery_media.php:45
+msgid "Tags"
+msgstr "Метки"
+
+#: app/extensions/manager/templates/addons.tpl.php:22
+#: includes/options/rbs_gallery_options_button_base.php:32
+msgid "Menu"
+msgstr "Меню"
+
+#: includes/options/rbs_gallery_options_button_base.php:7
+msgid "Menu Options"
+msgstr "Параметры меню"
+
+#: includes/extensions/stats/stats.form.php:147
+msgid "Trash"
+msgstr "Корзина"
+
+#: includes/extensions/stats/stats.form.php:139
+msgid "Drafts"
+msgstr "Черновики"
+
+#: includes/extensions/rbs_create_post_ajax.php:225
+#: includes/extensions/stats/stats.form.php:131
+msgid "Published"
+msgstr "Опубликовано"
+
+#: includes/extensions/stats/stats.form.php:120
+msgid "Total Galleries"
+msgstr "Всего галерей"
+
+#: includes/extensions/stats/stats.form.php:112
+msgid "Total Images"
+msgstr "Всего изображений"
+
+#: includes/extensions/stats/stats.form.php:104
+msgid "Total Views"
+msgstr "Всего просмотров"
+
+#: includes/extensions/stats/stats.form.php:85
+msgid "Images Statistics"
+msgstr "Статистика изображений"
+
+#: includes/extensions/stats/stats.form.php:84
+msgid "Gallery Statistics"
+msgstr "Статистика галереи"
+
+#: includes/extensions/stats/stats.form.php:71
+msgid "Dismiss this notice."
+msgstr "Отклонить это уведомление."
+
+#: includes/extensions/stats/stats.form.php:64
+#: includes/options/rbs_gallery_options_tools.php:47
+msgid "Reset"
+msgstr "Сброс"
+
+#: includes/extensions/stats/stats.form.php:63
+msgid "Robo Gallery Statistics"
+msgstr "Статистика Robo Gallery"
+
+#: includes/extensions/rbs_create_post_ajax.php:207
+msgid "Status"
+msgstr "Статус"
+
+#: includes/extensions/rbs_create_post_ajax.php:166
+#: includes/extensions/rbs_create_post_ajax.php:234
+#: includes/extensions/rbs_create_post_ajax.php:235
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: includes/extensions/rbs_create_post_ajax.php:160
+msgid "created"
+msgstr "создан"
+
+#: includes/extensions/rbs_create_post_ajax.php:160
+msgid "Post"
+msgstr "Запись"
+
+#: includes/extensions/rbs_create_post_ajax.php:89
+msgid "Short tag of the gallery will be insert into created article."
+msgstr "В созданную статью будет вставлен короткая метка галереи."
+
+#: includes/extensions/rbs_create_post_ajax.php:81
+#: includes/options/rbs_gallery_options_lightbox_base.php:26
+msgid "Text"
+msgstr "Текст"
+
+#: includes/extensions/rbs_create_post_ajax.php:76
+msgid "Slug"
+msgstr "Ярлык"
+
+#: includes/extensions/rbs_create_post_ajax.php:71
+#: includes/extensions/rbs_create_post_ajax.php:206
+#: includes/options/rbs_gallery_options_hover_base.php:88
+#: includes/options/rbs_gallery_options_lightbox_base.php:43
+#: includes/options/rbs_gallery_options_lightbox_base.php:157
+#: includes/rbs_gallery_widget.php:143 includes/rbs_gallery_widget_last.php:73
+msgid "Title"
+msgstr "Заголовок"
+
+#: includes/extensions/rbs_create_post_ajax.php:66
+msgid "Category"
+msgstr "Рубрики"
+
+#: includes/extensions/rbs_create_post_ajax.php:61
+msgid "Add new post"
+msgstr "Добавить новую запись"
+
+#: includes/extensions/rbs_create_post.php:12
+#: includes/options/rbs_gallery_options_tools.php:35
+msgid "Create post"
+msgstr "Создать запись"
+
+#: includes/extensions/rbs_create_post.php:10
+msgid "Post manager"
+msgstr "Управление записью"
+
+#: includes/extensions/category/category.class.php:163
+#: includes/extensions/rbs_create_post_ajax.php:163
+#: includes/extensions/rbs_create_post_ajax.php:229
+#: includes/extensions/rbs_create_post_ajax.php:230
+msgid "Edit"
+msgstr "Изменить"
+
+#: includes/extensions/category/category.class.php:124
+msgid "OK"
+msgstr "ОК"
+
+#: includes/extensions/category/category.class.php:121
+msgid "Error"
+msgstr "Ошибка"
+
+#: app/extensions/manager/class.addons.php:181
+#: includes/extensions/category/category.class.php:112
+msgid "Cancel"
+msgstr "Отмена"
+
+#: includes/extensions/category/category.class.php:109
+msgid "Save"
+msgstr "Сохранить"
+
+#: includes/extensions/category/category.class.php:55
+msgid "Categories"
+msgstr "Рубрики"
+
+#: cmbre2/fields/toolbox/cmb-field-toolbox.php:131
+msgid "disabled because you select gallery clone option"
+msgstr "отключен, так как выбран параметр клонирования галереи"
+
+#: cmbre2/fields/toolbox/cmb-field-toolbox.php:78
+msgid ""
+"This function available in latest versions of the plugin. <br/>\n"
+"\t\t\t\t\t\t\tPlease login to <a href=\"https://robosoft.co/clients/\" target=\"_blank\">client member place section</a>  and download latest version of the <strong>Robo Gallery Key plugin</strong>.<br/><br/>\n"
+"\t\t\t\t\t\t\tInstall this key on the website and all features will be enabled.<br/>\n"
+"\t\t\t\t\t\t\tAll previous functionality will be available with old Pro Key. <br/>\n"
+"\t\t\t\t\t\t\tUpdate required only for the case if you wish to enable all latest functions implemented in new version of the plugin."
+msgstr ""
+"Эта функция доступна в последних версиях плагина. <br/>\n"
+"Пожалуйста, войдите в <a href=\"https://robosoft.co/clients/\" target=\"_blank\">раздел места для клиентов</a> и загрузите последнюю версию <strong>плагина Robo Gallery Key</strong>. .<br/><br/>\n"
+"Установите этот ключ на сайт, и все функции будут включены.<br/>\n"
+"Все предыдущие функции будут доступны со старым Pro Key. <br/>\n"
+"Обновление требуется только в том случае, если вы хотите включить все последние функции, реализованные в новой версии плагина."
+
+#: cmbre2/fields/toolbox/cmb-field-toolbox.php:76
+msgid "Goto Clients section"
+msgstr "Перейти к разделу Клиенты"
+
+#: cmbre2/fields/toolbox/cmb-field-toolbox.php:74
+msgid "Update Robo Gallery PRO Key"
+msgstr "Обновить ключ Robo Gallery PRO"
+
+#: cmbre2/fields/toolbox/cmb-field-toolbox.php:65
+msgid "This function available in PRO version"
+msgstr "Эта функция доступна в версии PRO"
+
+#: app/class.listing.php:97 cmbre2/fields/toolbox/cmb-field-toolbox.php:63
+msgid "Get Pro version"
+msgstr "Получить версию Pro"
+
+#: app/class.listing.php:96 cmbre2/fields/toolbox/cmb-field-toolbox.php:62
+#: cmbre2/fields/toolbox/cmb-field-toolbox.php:75
+#: includes/extensions/rbs_create_post.php:11
+#: includes/rbs_gallery_button.php:28
+msgid "Close"
+msgstr "Закрыть"
+
+#: app/class.listing.php:95 cmbre2/fields/toolbox/cmb-field-toolbox.php:61
+msgid "Get Robo Gallery Pro version"
+msgstr "Получить версию Robo Gallery Pro"
+
+#: cmbre2/fields/padding/rbs-padding.php:95
+msgid "Bottom"
+msgstr "Снизу"
+
+#: cmbre2/fields/padding/rbs-padding.php:80
+#: includes/options/rbs_gallery_options_size_base.php:44
+msgid "Right"
+msgstr "Справа"
+
+#: cmbre2/fields/padding/rbs-padding.php:61
+msgid "Top"
+msgstr "Сверху"
+
+#: cmbre2/fields/padding/rbs-padding.php:46
+#: includes/options/rbs_gallery_options_size_base.php:42
+msgid "Left"
+msgstr "Cлева"
+
+#: cmbre2/fields/border/cmb-field-border.php:83
+msgid "Color"
+msgstr "Цвет"
+
+#: cmbre2/fields/border/cmb-field-border.php:69
+msgid "Style"
+msgstr "Стиль"
+
+#: cmbre2/fields/border/cmb-field-border.php:50
+#: includes/options/rbs_gallery_options_size_base.php:28
+msgid "Width"
+msgstr "Ширина"

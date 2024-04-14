@@ -1,0 +1,57 @@
+.image-block {
+  width: 150px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+}
+  
+/* Style for the image */
+.image-block img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Style for the tags */
+.tags {
+  padding: 10px;
+  background-color: #f2f2f2;
+  text-align: left;
+}
+
+/* Style for individual tags */
+.tags span {
+  display: inline-block;
+  padding: 5px 10px;
+  background-color: #ccc;
+  color: #fff;
+  border-radius: 20px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  font-size: 12px;
+}
+
+.swiper-slide img {
+  width: 100%;
+  height: 500px;
+}
+
+.form-block {
+  margin-top: 100px;
+}
+
+.form-block h3 {
+  text-align: center;
+}
+
+.form-block form {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px; 
+
+}
+
+.form-block form > p {
+  display: block;
+
+}
